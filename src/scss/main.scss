@@ -1,0 +1,18 @@
+@import './gallery.scss';
+@import './card.scss';
+@import './title.scss';
+@import './responsive.scss';
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    user-select: none;
+    background-color: rgb(238, 237, 237);
+}
+
